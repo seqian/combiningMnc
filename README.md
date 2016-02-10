@@ -1,3 +1,1 @@
-Hi,
-
-These scripts are for combining runs and sessions from fMRIStat.
+These scripts use MULTISTAT from the fMRIStat MATLAB toolkit to combine multiple rs-fMRI 3d runs or sessions. They expect 3D input images following a seed-based correlation analysis from fmrilm-fMRIStat.
